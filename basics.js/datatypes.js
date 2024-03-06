@@ -11,7 +11,16 @@ let loggedIn = 1;
 let booleanloggedIn = Boolean(loggedIn);
 // console.log(booleanloggedIn);
 
-let someNumber = 33
-let stringNumber = String(someNumber);
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// let someNumber = 33
+// let stringNumber = String(someNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+// let gameCounter = 100;
+// let newgameCounter = gameCounter++
+// console.log(newgameCounter);
+// console.log(gameCounter);
+
+console.log(null>0);
+console.log(null==0);
+console.log(null>=0);
