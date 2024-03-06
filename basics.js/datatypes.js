@@ -21,6 +21,13 @@ let booleanloggedIn = Boolean(loggedIn);
 // console.log(newgameCounter);
 // console.log(gameCounter);
 
-console.log(null>0);
-console.log(null==0);
-console.log(null>=0);
+// const id = Symbol('234');
+// const anotherId = Symbol('234')
+// console.log(id === anotherId);
+// console.log(anotherId);\
+
+let youtubeName = "h@b.com"
+let newName = youtubeName;
+newName = "k@JSON.com"
+console.log(newName);
+console.log(youtubeName);
